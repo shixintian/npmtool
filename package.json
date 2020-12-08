@@ -1,6 +1,6 @@
 {
   "name": "citycalc-tool",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "测试npm",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "citycalc-tool",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "测试npm",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,6 @@
   },
   "author": "sxt",
   "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.20"
-  },
   "devDependencies": {
     "dayjs": "^1.9.7"
   }
